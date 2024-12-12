@@ -1,0 +1,11 @@
+# Ignorar la carpeta .vs (por ejemplo, generada por Visual Studio)
+.vs/
+
+# Ignorar la solución de Visual Studio
+"Creaci\303\263 d'una llibreria_SergiSalguero.sln"
+
+# Ignorar la carpeta "Creaci\303\263 d'una llibreria_SergiSalguero"
+"Creaci\303\263 d'una llibreria_SergiSalguero/"
+
+# Ignorar la carpeta x64
+x64/
